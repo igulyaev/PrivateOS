@@ -1,1 +1,0 @@
-/home/ig/.config/awesome/rc.lua
